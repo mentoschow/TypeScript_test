@@ -38,5 +38,5 @@ async function asyncPrint() {
     await print(3000, "third");
 }
 
-asyncPrint();
+asyncPrint(); //
 
