@@ -21,3 +21,4 @@ let MyPromise = new Promise((resolve, reject) => {
     console.log("2.");
 });
 console.log("1.");
+console.log("hihihi");
