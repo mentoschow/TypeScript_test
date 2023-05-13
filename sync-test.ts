@@ -36,7 +36,8 @@ async function asyncPrint() {
     await print(1000, "first");
     await print(2000, "second");
     await print(3000, "third");
+    await print(4000, "fourth");
 }
 
-asyncPrint(); //
+asyncPrint();
 

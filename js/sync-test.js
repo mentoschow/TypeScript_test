@@ -44,6 +44,7 @@ function asyncPrint() {
         yield print(1000, "first");
         yield print(2000, "second");
         yield print(3000, "third");
+        yield print(4000, "fourth");
     });
 }
 asyncPrint();
